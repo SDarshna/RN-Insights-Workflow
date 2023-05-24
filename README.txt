@@ -1,3 +1,5 @@
+Base URL for the Prisma Access Insights API: https://pan.dev/access/docs/insights/getting_started-20/
+To fetch the super set of the values sent in the filters: https://pan.dev/access/docs/insights/query_filters/
 # Sample Request and Response Snippets
 
 ## Case 1: Fetch the Compute Location-SPN mapping and fetch the RN Site Status
